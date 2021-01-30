@@ -1,0 +1,22 @@
+Cyclic:
+
+- SAIC Motor Corporation Limited
+- China National Offshore Oil Corporation
+- Industrial and Commercial Bank of China Limited
+- Boeing Company
+- Singapore Airlines
+- JP Morgan
+- OCBC Bank
+
+
+Non-Cyclic:
+
+- Midea Group Co., Ltd
+- Wuliangye Yibin Co.,Ltd
+- Kweichow Moutai Co., Ltd
+- China Mengniu Dairy Company Limited 
+- Costco Wholesale Corporation
+- Inovio Pharmaceuticals, Inc
+- Novavax, Inc
+- The Procter & Gamble Company
+- Walmart Inc
