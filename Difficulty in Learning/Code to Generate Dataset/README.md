@@ -34,6 +34,17 @@ Next, please ensure that you have setup ALL the subfolders contained within the 
 ## Running the codes
 
 Now, with all the requirements fufiled in the above section, you can open each of the '.ipynb' python notebooks on the Jupyter environment and run every cell UNTIL THE END of
-the notebooks in order to generate all the required datasets for the experiments conducted for the Final Year Project.
+the notebooks in order to generate all the required datasets for the experiments conducted for the Final Year Project. You should run the notebooks in this order:
+
+1. 'data_generator.ipynb'
+2. 'data_generator - test.ipynb'
+3. 'data_generator - v6.ipynb'
+4. 'data_generator - test - v6.ipynb'
+5. 'data_generator - v7.ipynb'
+6. 'data_generator - test - v7.ipynb'
+
+Once all the notebooks are run, you should be able to see the generated datasets in the 'data' subfolder and the subfolders contained within it  in CSV format. If there are
+any errors encountered, it is most probably due to libraries not being installed or there is an error with the file paths, please check if the required libraries are installed
+and the file paths in the cells are correct.
 
 
