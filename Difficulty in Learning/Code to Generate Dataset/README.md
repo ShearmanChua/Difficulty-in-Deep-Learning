@@ -31,7 +31,7 @@ The libraries can be installed by searching them from https://pypi.org/ and perf
 Next, please ensure that you have setup ALL the subfolders contained within the 'data' subfolder so that there will be no errors when running the codes. 
 
 
-# Running the codes
+## Running the codes
 
 Now, with all the requirements fufiled in the above section, you can open each of the '.ipynb' python notebooks on the Jupyter environment and run every cell UNTIL THE END of
 the notebooks in order to generate all the required datasets for the experiments conducted for the Final Year Project.
