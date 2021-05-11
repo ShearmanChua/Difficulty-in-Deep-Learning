@@ -11,7 +11,7 @@ From the results obtained from the study, we were able to better understand the 
 
 # Difficulty of Learning for Deep Learning Models for Fintech Applications Experiments
 
-The code that are used for the Final Year Project's main Experimental Investigation can be found in the Difficulty in Learning folder, in the folders 'New variation 1 Experiments' up till 'New variation 6 Experiments'
+The code that are used for the Final Year Project's main Experimental Investigation can be found in the 'Difficulty in Learning' folder, in the folders 'New variation 1 Experiments' up till 'New variation 6 Experiments'
 
 The detailed project findings can be found in the Final Year Report titled 'SHEARMAN CHUA_U1820058D_FYP Final Report_SCSE20-0507'.
 
