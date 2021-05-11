@@ -15,6 +15,9 @@ The code that are used for the Final Year Project's main Experimental Investigat
 
 The detailed project findings can be found in the Final Year Report titled 'SHEARMAN CHUA_U1820058D_FYP Final Report_SCSE20-0507'.
 
+The official Final Year Project Report for this Final Year Project can be also found in the NTU Digital Repository under the following link:
+https://hdl.handle.net/10356/148075
+
 ## Variation 1 Experiments
 
 For this set of experiments conducted, we varied the dimensionality and presentation of the training data to the two Deep Learning models, in order to observe if the two Deep Learning models are able to better overcome the difficulty of learning the task of stock trading action prediction for one form of data input, when compared to another.
