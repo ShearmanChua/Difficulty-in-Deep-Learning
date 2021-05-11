@@ -1,5 +1,6 @@
 # Difficulty-in-Deep-Learning
 ## NTU SCSE Final Year Project- Difficulty of Learning of Deep Learning Models for Fintech Application (Stock Trading Action Prediction)
+![Image of poster](https://github.com/ShearmanChua/Difficulty-in-Deep-Learning/blob/main/images/FYP%20Poster.png)
 ### Abstract
 
 The application of Artificial Intelligence models in the domain of Financial technology, more commonly known as Fintech, has been widely studied by researchers throughout the years. With Deep Neural Networks gaining traction in the field of Artificial Intelligence, the use of Deep Neural Networks, or Deep Learning models, for Fintech applications has become more prevalent in recent years. One of the most widely studied application of Deep Learning models for Fintech, is the utilization of Deep Learning models for tasks surrounding the trading and investing of financial instruments such as Stocks or Forex. Some of these tasks include the prediction of next-day stock prices, stock portfolio management, valuation of assets, etc.
