@@ -42,10 +42,10 @@ In order to run the codes in this sub-folder, you first have to ensure that you 
 Anaconda open-source Python ecosystem which can be downloaded from https://www.anaconda.com/products/individual or using the instructions on the Jupyter website 
 https://jupyter.org/install
 
-![Image of poster](https://github.com/ShearmanChua/Difficulty-in-Deep-Learning/blob/main/images/jupyter.png)
+![Image of jupyter](https://github.com/ShearmanChua/Difficulty-in-Deep-Learning/blob/main/images/jupyter.png)
 
 
-Next, please ensure that you have the following Python libraries installed on your computer:
+Next, please ensure that you have the following Python libraries INSTALLED on your computer:
 
 - pandas_datareader.data
 - talib
@@ -54,5 +54,23 @@ Next, please ensure that you have the following Python libraries installed on yo
 - matplotlib
 - requests
 - lxml
+- scikit-learn
+- numpy
+- tensorflow
+- Pillow
+- tensorflow_addons
+- opencv-python
 
 The libraries can be installed by searching them from https://pypi.org/ and performing a pip install for the libraries.
+
+
+In order to ensure that the python notebooks can be run effectively and efficiently, please run the notebooks on a Desktop or Laptop that has a GPU compatible with Tensorflow.
+This will allow the python notebooks to be able to run faster and train the models faster. Alternatively, you can download the entire 'New variation x Experiments' sub-folders into your Google Drive, including the 'data' sub-folder contained within each 'New variation x Experiments' folder. Then, run the python notebooks on Google Colab with the runtime type changed to 'GPU' for the hardware accelerator. 
+NOTE: If you were to run the notebooks in the Google Colab environment, be sure to create a new cell to mount your Google Drive to be able to access the datasets in the 'data' sub-folder and be sure to change the file paths to read or write any files as and when required.
+
+
+## Running the codes
+
+Now, with all the requirements fufiled in the above section, you can open each of the '.ipynb' python notebooks on the Jupyter environment and run every cell UNTIL THE END of the notebooks
+
+
