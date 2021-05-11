@@ -1,5 +1,5 @@
 # Difficulty-in-Deep-Learning
-## NTU SCSE Final Year Project- Difficulty of Learning of Deep Learning Models for Fintech Applications
+## NTU SCSE Final Year Project- Difficulty of Learning of Deep Learning Models for Fintech Application (Stock Trading Action Prediction)
 ### Abstract
 
 The application of Artificial Intelligence models in the domain of Financial technology, more commonly known as Fintech, has been widely studied by researchers throughout the years. With Deep Neural Networks gaining traction in the field of Artificial Intelligence, the use of Deep Neural Networks, or Deep Learning models, for Fintech applications has become more prevalent in recent years. One of the most widely studied application of Deep Learning models for Fintech, is the utilization of Deep Learning models for tasks surrounding the trading and investing of financial instruments such as Stocks or Forex. Some of these tasks include the prediction of next-day stock prices, stock portfolio management, valuation of assets, etc.
@@ -9,14 +9,21 @@ Therefore, there is a need to study how different variations introduced to the t
 This paper proposes a novel study on the effects of introducing different variations to the training data used to train Deep Learning models(CNN and LSTM models), towards the ability of these models to learn the task of stock trading action prediction. The variations were introduced to the training data in a manner that allowed us to better understand how various variations present in the training data used for stock trading action prediction affect the ability of Deep Learning models to learn the task of stock trading action prediction. The variations introduced to the training data also took into consideration stock market specific factors likely to affect stock prices and movement.
 From the results obtained from the study, we were able to better understand the effects of the introduction of certain types of data variation towards the ability of Deep Learning models to learn the task of stock trading action prediction. In addition, we also learnt which variations, when introduced to the training data used to train the Deep Leaning models, are beneficial towards helping Deep Learning models better overcome the difficulty of learning from the training data during training, to enable them to solve the task of stock trading action prediction. The results of the study will be of assistance towards future studies conducted on the use of Deep Learning models for stock market prediction tasks, by providing insights on how to improve the training of Deep Learning models for stock market prediction tasks with the use of training data introduced with variations beneficial towards helping the Deep Learning models better overcome the difficulty of learning from the training data during training.
 
-# Difficulty of Learning for Deep Learning Models for Fintech Applications Experiments
+# Difficulty of Learning for Deep Learning Models for Fintech Application Experiments (Stock Trading Action Prediction)
 
 The code that are used for the Final Year Project's main Experimental Investigation can be found in the 'Difficulty in Learning' folder, in the folders 'New variation 1 Experiments' up till 'New variation 6 Experiments'
 
-The detailed project findings can be found in the Final Year Report titled 'SHEARMAN CHUA_U1820058D_FYP Final Report_SCSE20-0507'.
+The detailed project findings can be found in the Final Year Project Report titled 'SHEARMAN CHUA_U1820058D_FYP Final Report_SCSE20-0507' that can be found in the 'FYP Report' folder. 
+
+The project video and poster that were created as part of the project can be found in the 'FYP Poster and Video' folder in the repository.
 
 The official Final Year Project Report for this Final Year Project can be also found in the NTU Digital Repository under the following link:
 https://hdl.handle.net/10356/148075
+
+The Project source is given as follows:
+
+Source: 	Chua, S. W. J. (2021). Fintech related machine learning : experimental investigation on the effects of data variance towards difficulty of learning for deep learning models. Final Year Project (FYP), Nanyang Technological University, Singapore. https://hdl.handle.net/10356/148075
+
 
 ## Variation 1 Experiments
 
