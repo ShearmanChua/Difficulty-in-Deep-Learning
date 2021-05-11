@@ -16,3 +16,8 @@ The following sub-folders contains the results obtained from the various experim
 - FYP Final Report Supplementary Results (supplementary results not included in FYP Report)
 - New variation experiments results - combined (combined results and graph plots of all experiments conducted)
 - Results for New variation 3 Experiments (Results for the variation 3 Experiments as it could not be included in 'New variation 3 Experiments' folder due to file path length)
+
+
+# Instructions on How to Run the codes in New variation x Experiments subfolders
+
+In order to 
