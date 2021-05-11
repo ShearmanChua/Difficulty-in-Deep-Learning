@@ -71,6 +71,9 @@ NOTE: If you were to run the notebooks in the Google Colab environment, be sure 
 
 ## Running the codes
 
-Now, with all the requirements fufiled in the above section, you can open each of the '.ipynb' python notebooks on the Jupyter environment and run every cell UNTIL THE END of the notebooks
+Now, with all the requirements fufiled in the above section, you can open each of the '.ipynb' python notebooks on the Jupyter environment and run every cell UNTIL THE END of the notebooks in order to train the models and generate the results and graphs for each of the following Variation Experiment. There is no particular order to run the 'New variation x Experiments' sub-folders or the python notebooks in them. However, please ensure that the required datasets that should be in the 'data' sub-folder contained within each 'New variation x Experiments' folder are present and that the file paths for any I/O of the notebooks are set properly to prevent any file paths error.
+
+Once all the notebooks are run, you should be able to see the generated results for each of the experiments in CSV format. If there are any errors encountered, it is most probably due to libraries not being installed or there is an error with the file paths, please check if the required libraries are installed and the file paths in the cells are correct.
+
 
 
