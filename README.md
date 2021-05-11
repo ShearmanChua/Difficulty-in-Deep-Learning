@@ -14,9 +14,9 @@ From the results obtained from the study, we were able to better understand the 
 For this set of experiments conducted, we varied the dimensionality and presentation of the training data to the two Deep Learning models, in order to observe if the two Deep Learning models are able to better overcome the difficulty of learning the task of stock trading action prediction for one form of data input, when compared to another.
 
 ### Image Representation
-
+![Image of image representation](https://github.com/ShearmanChua/Difficulty-in-Deep-Learning/blob/main/images/image.jpg)
 ### Time-Series Representation
-
+![Image of Application](https://github.com/ShearmanChua/Difficulty-in-Deep-Learning/blob/main/images/time-series.jpg)
 ## Variation 2 Experiments
 
 For this set of experiments conducted, we varied the number of past trading days to be used as the lookback period for the training data of the 4 technical indicators used to train the Deep Learning models. The number of days used as lookback period for this set of experiments are, 5, 10, 15, 20, and 25 days. These experiments were conducted in order to investigate how the number of time-steps, or
