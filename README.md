@@ -1,2 +1,2 @@
 # Difficulty-in-Deep-Learning
-Difficulty of learning when training Deep Learning models
+## NTU SCSE Final Year Project- Difficulty of Learning of Deep Learning Models for Fintech Applications
