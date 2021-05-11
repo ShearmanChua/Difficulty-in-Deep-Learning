@@ -23,7 +23,7 @@ The sub-folder that contains the codes used to generate the various datasets req
 
 
 
-# Instructions on How to Run the codes in New variation x Experiments subfolders
+# Instructions on How to Run the codes in 'New variation x Experiments' subfolders
 
 The instructions to run the codes for the variation experiments for Variation 1 to 6 contained in the folders titled:
 
