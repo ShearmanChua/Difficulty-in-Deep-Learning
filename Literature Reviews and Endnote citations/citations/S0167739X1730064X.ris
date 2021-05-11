@@ -1,0 +1,19 @@
+TY  - JOUR
+T1  - A traceability chain algorithm for artificial neural networks using T–S fuzzy cognitive maps in blockchain
+AU  - Chen, Rui-Yang
+JO  - Future Generation Computer Systems
+VL  - 80
+SP  - 198
+EP  - 210
+PY  - 2018
+DA  - 2018/03/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2017.09.077
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X1730064X
+KW  - Takagi–Sugeno fuzzy
+KW  - Fuzzy cognitive maps
+KW  - Deep learning
+KW  - Blockchain
+KW  - Traceability chain algorithm
+AB  - Blockchain acts on a big data analytics because transaction data belongs to streaming data and high-dimensional data from distributed computing network. Accordingly, such operation produces irrelevant data problem and further poorly optimized traceability in blockchain. So, we claim that the artificial intelligence of blockchain mining algorithm like traceability chain algorithm runs faster than consensus algorithm because of inference mechanism. Our main goal is to reach traceability decision not consensus decision as fast as possible. Thus, this article proposes a novelty approach called Takagi–Sugeno Fuzzy cognitive maps ANN as traceability chain algorithm. The numerical example of the proposed algorithm in blockchain mining is evaluated and optimized decisions experiment is analyzed. Objective functions for optimized decision computation is described as participant nodes constraint method. Thus contribution succeeds in meeting the reduction mining efforts for the traceability chain being processed. Our findings also provide a preliminary indication of deep learning applied big blockchain transactions data.
+ER  - 
