@@ -11,18 +11,19 @@ From the results obtained from the study, we were able to better understand the 
 
 ![Image of abstract](https://github.com/ShearmanChua/Difficulty-in-Deep-Learning/blob/main/images/abstract.png)
 
+
 # Difficulty of Learning for Deep Learning Models for Fintech Application Experiments (Stock Trading Action Prediction)
 
-The code that are used for the Final Year Project's main Experimental Investigation can be found in the 'Difficulty in Learning' folder, in the folders 'New variation 1 Experiments' up till 'New variation 6 Experiments'
+- The code that are used for the Final Year Project's main Experimental Investigation can be found in the 'Difficulty in Learning' folder, in the folders 'New variation 1 Experiments' up till 'New variation 6 Experiments'
 
-The detailed project findings can be found in the Final Year Project Report titled 'SHEARMAN CHUA_U1820058D_FYP Final Report_SCSE20-0507' that can be found in the 'FYP Report' folder. 
+- The detailed project findings can be found in the Final Year Project Report titled 'SHEARMAN CHUA_U1820058D_FYP Final Report_SCSE20-0507' that can be found in the 'FYP Report' folder. 
 
-The project video and poster that were created as part of the project can be found in the 'FYP Poster and Video' folder in the repository.
+- The project video and poster that were created as part of the project can be found in the 'FYP Poster and Video' folder in the repository.
 
-The official Final Year Project Report for this Final Year Project can be also found in the NTU Digital Repository under the following link:
+- The official Final Year Project Report for this Final Year Project can be also found in the NTU Digital Repository under the following link:
 https://hdl.handle.net/10356/148075
 
-The Project source is given as follows:
+- The Project source is given as follows:
 
 Source: 	Chua, S. W. J. (2021). Fintech related machine learning : experimental investigation on the effects of data variance towards difficulty of learning for deep learning models. Final Year Project (FYP), Nanyang Technological University, Singapore. https://hdl.handle.net/10356/148075
 
