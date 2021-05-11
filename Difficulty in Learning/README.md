@@ -25,4 +25,34 @@ The sub-folder that contains the codes used to generate the various datasets req
 
 # Instructions on How to Run the codes in New variation x Experiments subfolders
 
-In order to 
+The instructions to run the codes for the variation experiments for Variation 1 to 6 contained in the folders titled:
+
+- New variation 1 Experiments
+- New variation 2 Experiments
+- New variation 3 Experiments
+- New variation 4 Experiments
+- New variation 5 Experiments
+- New variation 6 Experiments
+
+are given below.
+
+## Requirements to run the codes in 'New variation x Experiments' subfolders
+
+In order to run the codes in this sub-folder, you first have to ensure that you have Jupyter Notebook installed on your computer. Jupyter can be installed either as part of the 
+Anaconda open-source Python ecosystem which can be downloaded from https://www.anaconda.com/products/individual or using the instructions on the Jupyter website 
+https://jupyter.org/install
+
+![Image of poster](https://github.com/ShearmanChua/Difficulty-in-Deep-Learning/blob/main/images/jupyter.png)
+
+
+Next, please ensure that you have the following Python libraries installed on your computer:
+
+- pandas_datareader.data
+- talib
+- numpy
+- pandas
+- matplotlib
+- requests
+- lxml
+
+The libraries can be installed by searching them from https://pypi.org/ and performing a pip install for the libraries.
